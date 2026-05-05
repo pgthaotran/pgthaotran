@@ -1,22 +1,16 @@
-# Phuong Thao Tran
-
-📍 Ho Chi Minh City, Vietnam  
-🎓 Business Administration — Major in Business Analytics  
-📊 Data Analyst · Business Analyst · BI Analyst  
-
----
-
 ## About
 
-I work with data to uncover insights that support business decisions. My background in Business Administration gives me a practical perspective on translating analytical findings into business context — from SQL querying and Python-based EDA to interactive BI dashboards.
+Hi, I'm Phuong Thao.
+
+I enjoy working with data to understand what's happening in a business and why. My work spans SQL querying, Python-based analysis, and building BI dashboards — with a focus on making findings clear and useful for decision-making.
 
 ---
 
 ## Skills
 
-**Data & Analytics:** Python (Pandas, NumPy, scikit-learn) · SQL · Statistical Analysis  
+**Data & Analytics:** Python (Pandas, NumPy, scikit-learn) · SQL · R  
 **BI & Visualization:** Power BI · Tableau · Data Storytelling  
-**Business:** Business Analytics · Reporting · KPI Tracking · Process Analysis  
+**Business:** KPI Tracking · Reporting · Process Analysis · Business Analytics  
 
 ---
 
