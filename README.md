@@ -1,8 +1,6 @@
 ## About
 
-Hi, I'm Phuong Thao.
-
-I enjoy working with data to understand what's happening in a business and why. My work spans SQL querying, Python-based analysis, and building BI dashboards — with a focus on making findings clear and useful for decision-making.
+Hi, I'm Phuong Thao. I enjoy working with data to understand what's happening in a business and why. My work spans SQL querying, Python-based analysis, and building BI dashboards — with a focus on making findings clear and useful for decision-making.
 
 ---
 
